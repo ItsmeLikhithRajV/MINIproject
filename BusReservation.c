@@ -126,7 +126,7 @@ void DisplaySeat(int bus[33])
 void login()
 {
   char userName[20] = "user";
-  char passWord[10] = "team18";
+  char passWord[10] = "user123";
   char matchPass[10];
   char matchUser[10];
   int value;
